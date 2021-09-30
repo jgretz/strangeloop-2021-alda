@@ -1,0 +1,7 @@
+(key-sig! '(c major))
+
+midi-koto:
+ c e g
+
+midi-goblins:
+ c e g
